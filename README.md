@@ -26,9 +26,9 @@ A clean and modern Flutter UI project featuring product cards, categories, banne
 
 
 
-![Home](assets/readme/1.png)
-![Product Card](assets/readme/2.png)
-![Categories](assets/readme/3.png)
+![Home](assets/1.png)
+![Product Card](assets/2.png)
+![Categories](assets/3.png)
 
 
 
