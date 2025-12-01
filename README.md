@@ -24,31 +24,26 @@ A clean and modern Flutter UI project featuring product cards, categories, banne
 
 ## 📸 Screenshots
 
-> Add the images in `assets/readme/` and they will show here on GitHub:
 
-```
+
 ![Home](assets/readme/home.png)
 ![Product Card](assets/readme/card.png)
 ![Categories](assets/readme/categories.png)
-```
 
----
+
+
 
 ## 📦 How to Run
 
 ### 1️⃣ Install packages
 
-```
 flutter pub get
-```
 
 ### 2️⃣ Run the app
 
-```
 flutter run
-```
 
----
+
 
 ## 🛠️ Dependencies
 
@@ -61,7 +56,7 @@ dependencies:
   flutter_svg: ^2.0.10
 ```
 
----
+
 
 ## 📁 Folder Structure
 
